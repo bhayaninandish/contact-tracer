@@ -1,0 +1,21 @@
+.form-div{
+    margin: 50px auto 50px auto;
+    padding:25px 15px 10px 15px;
+    border: solid 1px #80ced7;
+    border-radius:5px;
+    font-size:1.1em;
+    font-family:'Lora'
+}
+
+form-control:focus{
+    box-shadow:none;
+}
+
+form p{
+    font-size: 0.89em;
+}
+
+.logout{
+    color:red;
+    
+}
